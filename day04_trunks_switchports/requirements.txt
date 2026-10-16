@@ -1,0 +1,4 @@
+netmiko>=4.3.0
+ntc-templates>=6.0.0
+textfsm>=1.1.3
+PyYAML>=6.0
